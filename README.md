@@ -2,7 +2,7 @@
 
 I am a Mechanical and Electrical engineer, who has been programming since the age of 11.
 
-I started with QBasic back in 1996, and I felt amazing. Quickly moved to Visual Basic, then to C++, Assembler and WinAPI. As of right now, I mainly program in C#, MySQL and I am pushing my way through PHP and web services.
+I started with QBasic back in 1996, and I felt amazing. I quickly moved to Visual Basic, then to C/C++, Assembler and WinAPI. As of right now, I mainly program in C#, MySQL and I am pushing my way through PHP and web services.
 
 #### GitHub stats
 
