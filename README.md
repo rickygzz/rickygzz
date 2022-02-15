@@ -1,4 +1,5 @@
 ### Hi, I'm Ricardo González 👋
+![](https://komarev.com/ghpvc/?username=rickygzz)
 
 I am a Mechanical and Electrical engineer, who has been programming since the age of 11.
 
