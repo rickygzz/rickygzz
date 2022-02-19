@@ -1,5 +1,5 @@
 ### Hi, I'm Ricardo González 👋
-![](https://komarev.com/ghpvc/?username=rickygzz)
+![](https://5vertice.com/gitcounter/print.php?User=rickygzz)
 
 I am a Mechanical and Electrical engineer, who has been programming since the age of 11.
 
