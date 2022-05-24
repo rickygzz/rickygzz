@@ -7,6 +7,8 @@ I started with QBasic back in 1996, and I felt amazing. I quickly moved to Visua
 
 I participated in a 12 weeks bootcamp, called LaunchX, to become fullstack web developer (Feb-May 2022) powered by [InnovaccionVirtual](https://www.instagram.com/innovaccionvirtual/) and <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="14px"> [Microsoft LatAm](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/). For more information, [see related repo](https://github.com/rickygzz/LaunchX-InnovaccionVirtual).
 
+This month I am getting certified on <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="14px"> Microsoft Azure Fundamentals AZ 900.
+
 #### Tools and Languages I had worked with
 
 <table>
@@ -76,6 +78,8 @@ I participated in a 12 weeks bootcamp, called LaunchX, to become fullstack web d
     <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/vbnet-1.svg"></td>
   </tr>
 </table>
+
+Apache, Azure, CPanel, WHM.
 
 
 #### Stats
