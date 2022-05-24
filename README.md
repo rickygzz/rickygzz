@@ -81,6 +81,8 @@ This month I am getting certified on <img src="https://cdn.worldvectorlogo.com/l
 
 Apache, Azure, CPanel, WHM.
 
+Unit testing: MSTest, PHPUnit, Jest.
+
 
 #### Stats
 
