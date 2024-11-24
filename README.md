@@ -1,5 +1,5 @@
 ### Hi, I'm Ricardo González 👋
-![](https://5vertice.com/gitcounter/gitcounter.php?User=rickygzz)
+![](https://cincovertice.com/github-visits/counter.php?User=rickygzz)
 
 I am a Mechanical and Electrical engineer who has been programming since the age of 11.
 
