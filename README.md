@@ -11,77 +11,94 @@ Certified on <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" he
 
 #### Tools and Languages I had worked with
 
+<table>  
+  <tr align="center">
+    <td width="120px"><strong>C#</strong></td>
+    <td width="120px"><strong>PHP</strong></td>
+    <td width="120px"><strong>Java</strong></td>
+    <td width="120px"><strong>C++</strong></td>
+    <td width="120px"><strong>Arduino</strong></td>
+  </tr>
+  <tr align="center" height="80px">
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
+    <td><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/arduino.svg"></td>
+  </tr>
+</table>
+
 <table>
   <tr align="center">
     <td width="120px"><strong>HTML 5</strong></td>
     <td width="120px"><strong>CSS 3</strong></td>
     <td width="120px"><strong>Javascript</strong></td>
     <td width="120px"><strong>Node.JS</strong></td>
-    <td width="120px"><strong>GIT</strong></td>
+    <td width="120px"><strong>Laravel</strong></td>
   </tr>
   <tr align="center" height="80px">
     <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
     <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></td>
     <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
     <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></td>
+  </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <td width="120px"><strong>Azure</strong></td>
+    <td width="120px"><strong>AWS</strong></td>
+    <td width="120px"><strong>Terraform</strong></td>
+    <td width="120px"><strong>Entity Framework</strong></td>
+    <td width="120px"><strong>git</strong></td>
+  </tr>
+  <tr align="center" height="80px">
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/azure-2.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg"></td>
+    <td><img height="50px" src="https://user-images.githubusercontent.com/58300181/118834163-ec6da000-b8b9-11eb-98dc-5e604c11e79f.png"></td>
     <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
   </tr>
 </table>
-  
+
 <table>
   <tr align="center">
-    <td width="120px"><strong>PHP</strong></td>
+    <td width="120px"><strong>SQL Server</strong></td>
     <td width="120px"><strong>MySQL</strong></td>
     <td width="120px"><strong>PostgreSQL</strong></td>
     <td width="120px"><strong>MongoDB</strong></td>
-    <td width="120px"><strong>Prisma</strong></td>
+    <td width="120px"><strong>Redis</strong></td>
   </tr>
   <tr align="center" height="80px">
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></td>
   </tr>
 </table>
   
 <table>  
   <tr align="center">
     <td width="120px"><strong>Vue</strong></td>
-    <td width="120px"><strong>Bootstrap</strong></td>
+    <td width="120px"><strong>Angular</strong></td>
     <td width="120px"><strong>PhotoShop</strong></td>
     <td width="120px"><strong>Premiere</strong></td>
     <td width="120px"><strong>CorelDraw</strong></td>
   </tr>
   <tr align="center" height="80px">
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/coreldraw.svg"></td>
-  </tr>
-</table>
-  
-<table>  
-  <tr align="center">
-    <td width="120px"><strong>C++</strong></td>
-    <td width="120px"><strong>C#</strong></td>
-    <td width="120px"><strong>Arduino</strong></td>
-    <td width="120px"><strong>Java</strong></td>
-    <td width="120px"><strong>VB.NET / VBA / VB6</strong></td>
-  </tr>
-  <tr align="center" height="80px">
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/arduino.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/vbnet-1.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg"></td>
+    <td><img height="50px" src="https://cdn.worldvectorlogo.com/logos/coreldraw.svg"></td>
   </tr>
 </table>
 
-Apache, Azure, CPanel, WHM.
+Linux, Apache, CPanel, WHM.
 
-Unit testing: MSTest, PHPUnit, Jest.
+Unit testing: xUnit, PHPUnit, Jest,  MSTest.
 
 
 #### Stats
