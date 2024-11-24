@@ -3,7 +3,7 @@
 
 I am a Mechanical and Electrical engineer who has been programming since the age of 11.
 
-I started with QBasic back in 1996, and I felt amazing. I quickly moved to Visual Basic, then to C/C++, Assembler and WinAPI. As of right now, I mainly program in C#, MySQL, and I am pushing my way through PHP and web services.
+I started with QBasic back in 1996, and I felt amazing. I quickly moved to Visual Basic, then to C/C++, Assembler and WinAPI. As of right now, I mainly program in C# and SQL. I am pushing my way through PHP.
 
 I participated in a 12 weeks bootcamp, called LaunchX, to become fullstack web developer (Feb-May 2022) powered by [InnovaccionVirtual](https://www.instagram.com/innovaccionvirtual/) and <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="14px"> [Microsoft LatAm](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/). For more information, [see related repo](https://github.com/rickygzz/LaunchX-InnovaccionVirtual).
 
